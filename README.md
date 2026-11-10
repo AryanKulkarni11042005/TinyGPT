@@ -9,6 +9,7 @@
 | **Val** | 21,990 stories → 4.88M tokens (9.8 MB) |
 | **Avg tokens/story** | ~229 |
 
+#### Model Runs 
 | Model | Validation Loss |
 | :---  | :--- |
 | **Bigram Model** | 3.99 |
